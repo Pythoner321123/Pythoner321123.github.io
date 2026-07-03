@@ -99,6 +99,6 @@ https://www.youtube.com/@HalfEatenSandwichStudios
 
 📧 **Email:** christoschronaios@gmail.com
 
-💼 **LinkedIn:** *(Add your profile)*
+💼 **LinkedIn:** https://www.linkedin.com/in/christos-p-chronaios-786963330/
 
 📺 **YouTube:** https://www.youtube.com/@HalfEatenSandwichStudios
