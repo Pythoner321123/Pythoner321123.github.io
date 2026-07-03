@@ -2,15 +2,15 @@
 
 ### Unreal Engine Developer • Gameplay Programmer • Technical Artist • Automation Engineer
 
-I specialize in architecting large-scale gameplay systems and building complete software products from concept to commercial release. My expertise spans Unreal Engine, Blueprint architecture, gameplay programming, technical art, automation, and performance optimization.
+I specialize in architecting large-scale gameplay systems and building complete software products from concept to commercial release. My expertise spans Unreal Engine, Blueprint architecture, gameplay programming, technical art, automation, simulation systems, and performance optimization.
 
 ---
 
-# 🚀 Flagship Projects
+# 🚀 Experience
 
 ## 🎮 Commercially Released Unreal Engine Game
 
-Successfully designed, developed, and shipped a complete commercial game from concept to launch, managing the entire development lifecycle.
+Successfully designed, developed, and commercially released a complete Unreal Engine game, taking the project from initial concept through development, testing, optimization, Steam publishing, and post-launch support.
 
 ### Responsibilities
 
@@ -27,29 +27,38 @@ Successfully designed, developed, and shipped a complete commercial game from co
 
 ---
 
-## 🌍 Open World Survival Crafting Sandbox *(Current Flagship Project)*
+## 🌍 Open-World Survival Crafting Sandbox *(Flagship Project)*
 
-A feature-rich open-world survival sandbox currently in **Beta**, representing several years of full-time Unreal Engine development.
+My largest game project to date, currently in **Beta**, representing several years of Unreal Engine development and large-scale gameplay engineering.
 
 ### Major Systems
 
-- Persistent save/load world serialization
-- Massive Blueprint architecture
+- Persistent world save/load serialization
+- Large-scale Blueprint architecture
 - Dynamic weather simulation
 - Real-time day & night cycle
 - Building & construction
-- Crafting & production chains
-- Farming & crop systems
+- Crafting systems
+- Farming & crop simulation
 - Fishing mechanics
 - Swimming & underwater gameplay
 - Autonomous wildlife AI
 - Living plant ecosystem
-- Inventory & item management
-- Resource gathering
-- Large-scale world simulation
+- Inventory & resource management
 - Performance optimization
 
-This project demonstrates large-scale gameplay architecture, complex interconnected systems, and end-to-end game development using Unreal Engine.
+This project demonstrates the design and implementation of complex, interconnected gameplay systems within a large-scale Unreal Engine project.
+
+---
+
+# 📈 Current Focus
+
+Currently developing a **UI-heavy macroeconomic incremental simulation game** in Unreal Engine. The project focuses on simulating complex economic systems through interconnected mechanics such as businesses, production chains, markets, automation, resource management, and long-term economic growth.
+
+I regularly publish development logs, technical breakdowns, and progress updates on my YouTube channel:
+
+📺 **Half Eaten Sandwich Studios**  
+https://www.youtube.com/@HalfEatenSandwichStudios
 
 ---
 
@@ -59,21 +68,22 @@ This project demonstrates large-scale gameplay architecture, complex interconnec
 
 - Unreal Engine 5
 - Blueprint Visual Scripting
-- Niagara VFX
 - Gameplay Programming
+- Simulation Systems
+- UI/UX Development
+- Niagara VFX
 - AI Systems
-- UI/UX
+- Save/Load Architecture
 - Performance Optimization
-- Save/Load Systems
 - Steam Publishing
 
 ### Programming
 
 - C#
 - Python
+- SQL
 - Object-Oriented Programming
 - Automation & Scripting
-- SQL
 
 ### Content Creation
 
@@ -85,15 +95,10 @@ This project demonstrates large-scale gameplay architecture, complex interconnec
 
 ---
 
-# 📈 Current Focus
-
-Building ambitious simulation-heavy games featuring emergent gameplay, automation, living ecosystems, and scalable gameplay architecture inspired by titles such as **Factorio**, **RimWorld**, and open-world survival games.
-
----
-
 # 📫 Contact
 
-- 📧 **Email:** christoschronaios@gmail.com
-- 💼 **LinkedIn:** *(Add your profile)*
-- 🎥 **YouTube:** *(Add your channel)*
-- 🎮 **Steam:** *(Add your game page)*
+📧 **Email:** christoschronaios@gmail.com
+
+💼 **LinkedIn:** *(Add your profile)*
+
+📺 **YouTube:** https://www.youtube.com/@HalfEatenSandwichStudios
